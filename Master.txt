@@ -1,3 +1,4 @@
-<Version: 1.03>
-/data/Map020.json https://raw.githubusercontent.com/Dhoang1601/UpdataForProject/master/Map020.json
+<Version: 2.0>
+/data/Map023 https://raw.githubusercontent.com/Dhoang1601/UpdataForProject/master/Map023.json
+/data/Map024 https://raw.githubusercontent.com/Dhoang1601/UpdataForProject/master/Map024.json
 <End of Version>
